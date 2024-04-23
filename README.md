@@ -19,4 +19,4 @@ Seaborn: pip install seaborn
 
 Scikit-Learn: pip install scikit-learn
 
-OpenCV: pip install pyton-opencv
+OpenCV: pip install opencv-python
