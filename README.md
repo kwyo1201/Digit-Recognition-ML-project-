@@ -12,7 +12,11 @@ OpenCV will need to be installed for code blocks that create the new dataset.
 If you have downloaded Python for the first time, some libraries will need to download it. Write the following on the computer's terminal.
 
 Numpy: pip install numpy
+
 Matplotlib: pip install matplotlib
+
 Pandas: pip install pandas
+
 Seaborn: pip install seaborn
+
 Scikit-Learn: pip install scikit-learn
